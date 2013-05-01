@@ -6,6 +6,8 @@ CSS Preprocessors
 	Sass
 	LESS
 
-Git
+Version Control
+	Git
 
-
+JavaScript
+	jQuery
