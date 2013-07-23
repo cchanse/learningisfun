@@ -1,7 +1,6 @@
 Different Heading - Long Term Work
 
 Frameworks
-	Bootstrap
 	Foundation - http://foundation.zurb.com/
 
 CSS Preprocessors
