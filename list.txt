@@ -12,3 +12,8 @@ Version Control
 
 JavaScript
 	jQuery
+
+JavaScript Frameworks
+  Angular
+  Ember
+  Backbone
